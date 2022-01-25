@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/googleapis/python-service-directory/compare/v1.2.1...v1.3.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#148](https://github.com/googleapis/python-service-directory/issues/148)) ([a562a5d](https://github.com/googleapis/python-service-directory/commit/a562a5d8f530b41078062612b9916bc76882f211))
+
 ### [1.2.1](https://www.github.com/googleapis/python-service-directory/compare/v1.2.0...v1.2.1) (2021-11-01)
 
 
